@@ -1,0 +1,9 @@
+target/
+test-output/
+reports/
+src/test/resources/reports/
+.settings/
+.classpath
+.project
+*.class
+*.exe
